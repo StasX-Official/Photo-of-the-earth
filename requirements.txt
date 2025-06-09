@@ -1,0 +1,7 @@
+requests>=2.28.0
+cryptography>=41.0.0
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
+sphinx>=5.0.0
+sphinx-rtd-theme>=1.0.0

@@ -1,0 +1,2 @@
+# This file ensures the cache directory is created in version control
+# Cache files will be created here during runtime
